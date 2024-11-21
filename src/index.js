@@ -6,7 +6,6 @@ function Component() {
 	return {
 		view: () => (
 			<main>
-				<h1>big JSX</h1>
 			</main>
 		)
 	}
