@@ -6,7 +6,7 @@ function Component() {
 	return {
 		view: () => (
 			<main>
-				<h1>Z</h1>
+				<h1>Zeal</h1>
 				<p>
 					TODO in the future I will try and
 				</p>
