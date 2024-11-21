@@ -8,7 +8,7 @@ function Component() {
 			<main>
 				<h1>Burrito Index</h1>
 				<p>
-					TODO in the future I willl
+					TODO in the future I will
 				</p>
 			</main>
 		)
