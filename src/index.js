@@ -7,6 +7,7 @@ function Component() {
 		view: () => (
 			<main>
 				<h1>Burrito Index</h1>
+				
 			</main>
 		)
 	}
