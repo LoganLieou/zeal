@@ -3,7 +3,7 @@
 import m from "mithril"
 
 function Component() {
-	// How do we do state here, how do I do useful javascript along with do I do 
+	// How do we do state here, how do I do useful javascript along with I do 
 	return {
 		view: () => (
 			<main>
