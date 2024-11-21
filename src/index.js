@@ -8,6 +8,7 @@ function Component() {
 			<main>
 				<h1>Burrito Index</h1>
 				<p>
+					
 				</p>
 			</main>
 		)
