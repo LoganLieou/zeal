@@ -6,7 +6,7 @@ function Component() {
 	return {
 		view: () => (
 			<main>
-				<h1>Burrito Index</h1>
+				<h1>Index</h1>
 				<p>
 					TODO in the future I will try and
 				</p>
