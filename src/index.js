@@ -8,7 +8,7 @@ function Component() {
 			<main>
 				<h1>Zeal</h1>
 				<p>
-					I will add contents here in the future for doing something I'm mostly mes
+					I will add contents here in the future for doing something I'm mostly messing around
 				</p>
 			</main>
 		)
