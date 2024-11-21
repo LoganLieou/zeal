@@ -8,7 +8,7 @@ function Component() {
 			<main>
 				<h1>Zeal</h1>
 				<p>
-					I will addc
+					I will add conte
 				</p>
 			</main>
 		)
