@@ -6,6 +6,7 @@ function Component() {
 	return {
 		view: () => (
 			<main>
+				
 			</main>
 		)
 	}
